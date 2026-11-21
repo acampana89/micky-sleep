@@ -1,0 +1,16 @@
+{
+  "name": "Micky's Sleep",
+  "short_name": "Micky Sleep",
+  "description": "Nap and night sleep tracker for Micky. Works with no signal.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef0f8",
+  "theme_color": "#3d47a8",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
